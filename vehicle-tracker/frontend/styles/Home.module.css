@@ -1,0 +1,12 @@
+.container {
+    padding: 2rem;
+  }
+  
+  .navList {
+    list-style-type: none;
+  }
+  
+  .navItem {
+    margin: 0.5rem 0;
+  }
+  

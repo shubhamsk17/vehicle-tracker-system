@@ -1,0 +1,24 @@
+.container {
+    padding: 2rem;
+  }
+  
+  .addButton {
+    margin-bottom: 1rem;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #0070f3;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  .driverList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .driverItem {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
